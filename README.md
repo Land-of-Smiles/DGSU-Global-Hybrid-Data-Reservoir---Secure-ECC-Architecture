@@ -1,5 +1,3 @@
-# watering-system
-
 # DGSU: 🌐  Global Hybrid Data Reservoir & Secure ECC Architecture
 
 **Inventors:** Land-of-Smiles & Google Gemini Flash  
